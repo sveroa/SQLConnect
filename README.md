@@ -11,3 +11,4 @@ Server version: 13.00.4202 ==> SQL Server 2016
 Server Edition: Developer Edition (64-bit) (Enterprise)
 Server collation: Danish_Norwegian_CI_AS
 Successfully disconnected
+
